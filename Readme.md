@@ -18,7 +18,7 @@ sudo apt install docker docker-compose
 2. Dlib model
 
 download from : https://github.com/davisking/dlib-models
-
+or Look for : shape_predictor_68_face_landmarks.dat
 
 Verify installation:
 
