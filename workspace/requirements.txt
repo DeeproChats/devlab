@@ -1,0 +1,91 @@
+# ===============================================
+# UNIVERSAL REQUIREMENTS (Version-Independent)
+# ===============================================
+
+# -------------------------------
+# Basic Web / Notebook Tools
+# -------------------------------
+flask
+streamlit
+gradio
+jupyterlab
+notebook
+ipykernel
+
+# -------------------------------
+# Data + ML Essentials
+# -------------------------------
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+
+# -------------------------------
+# Deep Learning / Face Recognition
+# -------------------------------
+dlib
+tensorflow
+keras
+tf-keras
+mtcnn
+mediapipe
+
+# -------------------------------
+# Audio Processing & Deepfake Detection
+# -------------------------------
+torch
+torchaudio
+librosa
+pydub
+soundfile
+webrtcvad
+huggingface-hub
+pyannote.audio
+
+# -------------------------------
+# Utils / OCR / PDF Handling
+# -------------------------------
+pillow
+opencv-python
+pytesseract
+pdf2image
+pdfplumber
+
+# -------------------------------
+# Forensic Reporting & Data Export
+# -------------------------------
+reportlab
+python-docx
+sqlalchemy
+ffmpeg-python
+
+# -------------------------------
+# Developer Niceties
+# -------------------------------
+black
+pylint
+pre-commit
+pytest
+pytest-cov
+
+# -------------------------------
+# Web Scraping
+# -------------------------------
+requests
+beautifulsoup4
+lxml
+selenium
+webdriver-manager
+webdriverdownloader
+undetected-chromedriver
+fake-useragent
+
+# -------------------------------
+# Compatibility & Utilities
+# -------------------------------
+typing_extensions
+dataclasses; python_version<"3.7"
+importlib-metadata; python_version<"3.8"
+scikit-image
+

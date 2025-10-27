@@ -1,0 +1,58 @@
+# =========================
+# PYTHON
+# =========================
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+
+# =========================
+# ENVIRONMENTS
+# =========================
+.venv/
+env/
+venv/
+*.env
+
+# =========================
+# JUPYTER NOTEBOOKS
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# IDEs & DEV CONTAINERS
+# =========================
+.vscode/
+.idea/
+.devcontainer/
+.vscode-server/
+
+# =========================
+# SYSTEM & USER CONFIG
+# =========================
+.cache/
+.local/
+.keras/
+.ipython/
+.streamlit/
+
+# =========================
+# DOCKER & BUILD FILES
+# =========================
+*.pid
+*.log
+*.bak
+*.swp
+*.tmp
+*.out
+
+# =========================
+# OS SPECIFIC
+# =========================
+.DS_Store
+Thumbs.db
+
+
+# Ignore large AI model files
+.deepface/weights/
+workspace/FaceBiometricSoftware/dlibModel/
