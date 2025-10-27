@@ -15,6 +15,10 @@ Linux: Install Docker Engine and Docker Compose plugin via your package manager
 
 sudo apt install docker docker-compose
 
+2. Dlib model
+
+download from : https://github.com/davisking/dlib-models
+
 
 Verify installation:
 
